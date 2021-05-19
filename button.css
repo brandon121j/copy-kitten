@@ -1,0 +1,26 @@
+#shell {
+    background: rgb(31,82,117);
+    border-radius: 12px;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    outline-offset: 4px;
+    width: 350px;
+    margin: 100px;
+}
+
+#button {
+    display: block;
+    padding: 12px 42px;
+    border-radius: 12px;
+    font-size: 1.25rem;
+    background: rgb(51,134,192);
+    color: white;
+    transform: translateY(-6px);
+    width: 350px;
+}
+
+#button:hover {
+    background-color: rgb(62,161,232);
+    transform: translateY(-2px);
+}

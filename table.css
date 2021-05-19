@@ -1,0 +1,63 @@
+.tables {
+    padding: 60px;
+    font-size: 35px;
+}
+
+#cell-1 {
+    padding: 4px;
+    border-right: solid black 1px;
+    border-bottom: solid black 1px;
+}
+
+#cell-2 {
+    padding: 4px;
+    border-right: solid black 1px;
+    border-bottom: solid black 1px;
+    border-left: solid black 1px;
+}
+
+#cell-3 {
+    padding: 4px;
+    border-bottom: solid black 1px;
+    border-left: solid black 1px;
+}
+
+#cell-4 {
+    padding: 4px;
+    border-bottom: solid black 1px;
+    border-right: solid black 1px;
+}
+
+#cell-5 {
+    padding: 4px;
+    border-bottom: solid black 1px;
+    border-right: solid black 1px;
+    border-left: solid black 1px;
+    border-top: solid black 1px;
+}
+
+#cell-6 {
+    padding: 4px;
+    border-bottom: solid black 1px;
+    border-left: solid black 1px;
+    border-top: solid black 1px;
+}
+
+#cell-7 {
+    padding: 4px;
+    border-right: solid black 1px;
+    border-top: solid black 1px;
+}
+
+#cell-8 {
+    padding: 4px;
+    border-right: solid black 1px;
+    border-left: solid black 1px;
+    border-top: solid black 1px;
+}
+
+#cell-9 {
+    padding: 4px;
+    border-left: solid black 1px;
+    border-top: solid black 1px;
+}
