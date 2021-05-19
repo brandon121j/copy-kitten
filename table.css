@@ -4,60 +4,123 @@
 }
 
 #cell-1 {
-    padding: 4px;
+    padding: 5px;
     border-right: solid black 1px;
     border-bottom: solid black 1px;
+    margin: 25px;
 }
 
 #cell-2 {
-    padding: 4px;
+    padding: 5px;
     border-right: solid black 1px;
     border-bottom: solid black 1px;
     border-left: solid black 1px;
+    margin: 25px;
 }
 
 #cell-3 {
-    padding: 4px;
+    padding: 5px;
     border-bottom: solid black 1px;
     border-left: solid black 1px;
+    margin: 25px;
 }
 
 #cell-4 {
-    padding: 4px;
+    padding: 5px;
     border-bottom: solid black 1px;
     border-right: solid black 1px;
+    border-top: solid black 1px;
+    margin: 25px;
 }
 
 #cell-5 {
-    padding: 4px;
+    padding: 5px;
     border-bottom: solid black 1px;
     border-right: solid black 1px;
     border-left: solid black 1px;
     border-top: solid black 1px;
+    margin: 25px;
 }
 
 #cell-6 {
-    padding: 4px;
+    padding: 5px;
     border-bottom: solid black 1px;
     border-left: solid black 1px;
     border-top: solid black 1px;
+    margin: 25px;
 }
 
 #cell-7 {
-    padding: 4px;
+    padding: 5px;
     border-right: solid black 1px;
     border-top: solid black 1px;
+    margin: 25px;
 }
 
 #cell-8 {
-    padding: 4px;
+    padding: 5px;
     border-right: solid black 1px;
     border-left: solid black 1px;
     border-top: solid black 1px;
+    margin: 25px;
 }
 
 #cell-9 {
-    padding: 4px;
+    padding: 5px;
     border-left: solid black 1px;
     border-top: solid black 1px;
+    margin: 25px;
+}
+
+#row-1 {
+    padding-bottom: 15px;
+}
+
+#row-2 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#row-3 {
+    padding-top: 15px;
+}
+
+#cell-1:hover {
+    background-color: red;
+}
+
+#cell-2:hover {
+    background-color: blue;
+}
+
+#cell-3:hover {
+    background-color: purple;
+}
+
+#cell-3:hover {
+    background-color: green;
+}
+
+#cell-4:hover {
+    background-color: yellow;
+}
+
+#cell-5:hover {
+    background-color: orange;
+}
+
+#cell-6:hover {
+    background-color: lightblue;
+}
+
+#cell-7:hover {
+    background-color: darkblue;
+}
+
+#cell-8:hover {
+    background-color: gray;
+}
+
+#cell-9:hover {
+    background-color: darkkhaki;
 }
